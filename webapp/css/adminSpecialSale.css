@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+.special-sale-section {
+    margin-top: 20px;
+    padding: 18px;
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+    background: #fafafa;
+}
+
+.special-sale-section h4 {
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.special-sale-toggle {
+    margin-bottom: 15px;
+}
